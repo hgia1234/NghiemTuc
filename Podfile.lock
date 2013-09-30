@@ -1,0 +1,16 @@
+PODS:
+  - MagicalRecord (2.2)
+  - MBProgressHUD (0.8)
+  - MFSideMenu (0.5.4)
+
+DEPENDENCIES:
+  - MagicalRecord
+  - MBProgressHUD
+  - MFSideMenu
+
+SPEC CHECKSUMS:
+  MagicalRecord: b1fc46c99a9749fe7fe7e6f43a89b62ef5201933
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+  MFSideMenu: f59e25c080097a701e108459c207fb22e1f62c30
+
+COCOAPODS: 0.20.2
